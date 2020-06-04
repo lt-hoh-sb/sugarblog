@@ -23,3 +23,5 @@ In the last update, I mentioned picking up cyber security, and it looks like thi
 
 --
 My plan moving forward is to take my time in completing this course.  It's gonna make up the brunt of what I do.
+___
+<< Home

@@ -36,3 +36,5 @@ And then I realized I jumped the gun and there's no reason to implement distribu
 Additionally, I'll try to set up a server on a RaspberryPi ASAP.  I'll do some small time reddit research just on tips we would need to start this up.  And although these skills may not directly aid this project, there's no reason not to pick up some cyber security and web app development.
 
 I know I didn't bother talking about the actual idea behind this project, but it's much too early in the process for this to be particularly useful information in tracking my own progress.  lollipop thug has his own journals and whatnot, so I'll leave that part of the logging to him.
+___
+<< Home
