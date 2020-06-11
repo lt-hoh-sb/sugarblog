@@ -1,6 +1,8 @@
+/********** Tags **********/
 body {
     background-color: #45046a;
     color: #f1ebbb;
+    text-align: center;
     font-family: Montserrat, sans-serif;
 }
 
@@ -26,7 +28,21 @@ h3 {
     font-family: sans-serif;
 }
 
+table {
+    margin: auto;
+}
+
+/******** .Classes ********/
 .sugartown {
     font-family: Lobster;
-    font-size: large;
+    font-size: xx-large;
+}
+
+/********** #IDs **********/
+#blogs {
+    background-color: #b5076b;
+    width: 40%;
+    height: auto;
+    margin: 0 auto 0;
+    padding: 10px 0px 10px;
 }
