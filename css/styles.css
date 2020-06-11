@@ -38,6 +38,12 @@ table {
     font-size: xx-large;
 }
 
+.links_lst {
+    text-align: left;
+    margin: auto;
+    width: 50%;
+}
+
 /********** #IDs **********/
 #blogs {
     background-color: #b5076b;
