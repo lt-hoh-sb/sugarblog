@@ -2,7 +2,6 @@ body {
     background-color: #45046a;
     color: #f1ebbb;
     font-family: Montserrat, sans-serif;
-    font-size: small;
 }
 
 hr {
@@ -16,11 +15,14 @@ hr {
 h1 {
     color: #b5076b;
     font-family: Indie Flower, sans-serif;
-    font-size: large;
 }
 
 h3 {
     color: #b5076b;
-    font-family: Lobster, sans-serif;
-    font-size: medium;
+    font-family: sans-serif;
+}
+
+.sugartown {
+    font-family: Lobster;
+    font-size: large;
 }
