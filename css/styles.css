@@ -4,6 +4,10 @@ body {
     font-family: Montserrat, sans-serif;
 }
 
+a:visited {
+    color: blue;
+}
+
 hr {
     border-style: dotted none none;
     height: 0;
