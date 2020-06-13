@@ -6,8 +6,16 @@ body {
     font-family: Montserrat, sans-serif;
 }
 
+a:link {
+    color: #f1ebbb;
+    text-decoration: none;
+    font-style: italic;
+}
+
 a:visited {
-    color: blue;
+    color: #f1ebbb;
+    text-decoration: none;
+    font-style: italic;
 }
 
 hr {
