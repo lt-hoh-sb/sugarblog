@@ -52,9 +52,5 @@ table {
 
 /********** #IDs **********/
 #blogs {
-    background-color: #b5076b;
-    width: 40%;
-    height: auto;
-    margin: 0 auto 0;
-    padding: 10px 0px 10px;
+    padding: 4% 15%;
 }
