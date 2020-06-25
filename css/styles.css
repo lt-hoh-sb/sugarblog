@@ -38,10 +38,23 @@ table {
     margin: auto;
 }
 
-/******** .Classes ********/
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+/******** Desktop ********/
 .sugartown {
     font-family: Lobster;
     font-size: xx-large;
+}
+
+#blogs {
+    padding: 4% 15%;
+    width: 100%;
+    margin: auto;
 }
 
 .links_lst {
@@ -50,7 +63,13 @@ table {
     width: 50%;
 }
 
-/********** #IDs **********/
-#blogs {
-    padding: 4% 15%;
+
+/******** Mobile ********/
+@media (max-width: 500px) {
+    .card{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: auto;
+    }
 }
