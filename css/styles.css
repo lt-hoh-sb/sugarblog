@@ -46,6 +46,9 @@ table {
 }
 
 /******** Desktop ********/
+#title {
+    padding-top: 7%;
+}
 .sugartown {
     font-family: Lobster;
     font-size: xx-large;
@@ -55,12 +58,6 @@ table {
     padding: 4% 15%;
     width: 100%;
     margin: auto;
-}
-
-.links_lst {
-    text-align: left;
-    margin: auto;
-    width: 50%;
 }
 
 .my-color {
@@ -74,6 +71,26 @@ table {
     background-color: #f1ebbb;
 }
 
+#footer {
+    padding-bottom: 7%;
+}
+
+
+
+/******** Links Styles *******/
+
+#links {
+    padding: 1% 15% 0;
+}
+
+.links-body {
+    text-align: left;
+}
+
+.links_lst {
+    text-align: left;
+    padding: 1% 15%;
+}
 
 /******** Mobile ********/
 @media (max-width: 500px) {
