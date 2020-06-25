@@ -7,12 +7,12 @@ body {
 }
 
 a:link {
-    color: lightgrey;
+    color: #f1ebbb;
     text-decoration: none;
 }
 
 a:visited {
-    color: lightgrey;
+    color: #f1ebbb;
     text-decoration: none;
 }
 
@@ -61,6 +61,17 @@ table {
     text-align: left;
     margin: auto;
     width: 50%;
+}
+
+.my-color {
+    border-color: #f1ebbb;
+    color: #f1ebbb;
+}
+
+.my-color:hover {
+    border-color: #b5076b;
+    color: #b5076b;
+    background-color: #f1ebbb;
 }
 
 
