@@ -55,3 +55,15 @@ body {
 .action {
     opacity: 1;
 }
+
+/* Mobile */
+
+@media (max-width: 500px) {
+    .center {
+        margin: 0;
+    }
+
+    #game {
+        margin: 10%;
+    }
+}
